@@ -1,0 +1,1 @@
+[null,{"name":"users","temp":"5","event-type":"3","_id":"EzZcV","actions":[{"server":"0","varName":"","info":"35","storage":"1","varName2":"users","name":"Store Server Info"},{"gameName":"Jest Nas: ${tempVars(\"users\")}","gameLink":"","name":"Set Bot Game"}]}]
